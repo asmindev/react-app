@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "senin": [
+        {
+          "mapel": "Teknologi Informasi",
+          "jam": "10:01-11:40"
+        },
+        {
+          "mapel": "Pend. Agama",
+          "jam": "13:30-Selesai"
+        }
+      ],
+      "id": "1"
+    }
+  ]
+}
